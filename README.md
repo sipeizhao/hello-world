@@ -1,2 +1,2 @@
 # hello-world
-hellow world project on Github
+This is my hello world project on Github
